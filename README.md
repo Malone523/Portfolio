@@ -5,7 +5,7 @@ This repository contains a collection of my academic degrees, certifications, an
 ## Contents
 - 🎓 Academic degrees
 - 📜 Certifications
-- 📄 Additional supporting documents
+- 📄 Additional documents
 
 
 ## Notes
