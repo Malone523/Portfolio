@@ -1,6 +1,6 @@
 # Portfolio
 
-This repository documents my academic achievements, competition work, and professional credentials.
+This repository documents my academic achievements, competition work, and professional credentials.  
 All documents are included for verification and recruitment purposes.
 
 ---
