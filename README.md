@@ -10,8 +10,8 @@ All documents are included for verification and recruitment purposes.
 
 <br>
 
-- [Cambridge C1](certificates/cambridge.pdf)
-- [ECDL](certificates/ecdl.pdf)
+- [Cambridge C1](certificates/cambridge.pdf) - needs to be uploaded
+- [ECDL](certificates/ecdl.pdf) - needs to be uploaded
 
 </details>
 
@@ -23,7 +23,7 @@ All documents are included for verification and recruitment purposes.
 <br>
 
 - [Constructor University GenAI Hackathon 2026](https://github.com/Malone523/Portfolio/tree/main/Hackathons/Constructor%20GenAI%202026) — BMW AI for People & Leadership Strategy track
-- [Constructor University Datathon 2026](hackathons/datathon-2026.pdf)
+- [Constructor University Datathon 2026](hackathons/datathon-2026.pdf) - needs to be uploaded
 
 </details>
 
