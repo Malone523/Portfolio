@@ -10,7 +10,7 @@ All documents are included for verification and recruitment purposes.
 
 <br>
 
-- [Cambridge B2 First](certificates/cambridge.pdf)
+- [Cambridge C1](certificates/cambridge.pdf)
 - [ECDL](certificates/ecdl.pdf)
 
 </details>
