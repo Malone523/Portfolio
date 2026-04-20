@@ -22,7 +22,7 @@ All documents are included for verification and recruitment purposes.
 
 <br>
 
-- [Constructor University GenAI Hackathon 2026](hackathons/genai-hackathon-2026.pdf) — BMW AI for People & Leadership Strategy track
+- [Constructor University GenAI Hackathon 2026]([hackathons/genai-hackathon-2026.pdf](https://github.com/Malone523/Portfolio/tree/main/Hackathons/Constructor%20GenAI%202026)) — BMW AI for People & Leadership Strategy track
 - [Constructor University Datathon 2026](hackathons/datathon-2026.pdf)
 
 </details>
