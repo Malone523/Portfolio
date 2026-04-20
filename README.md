@@ -15,6 +15,8 @@ All documents are included for verification and recruitment purposes.
 
 </details>
 
+---
+
 <details>
 <summary>Hackathons & Datathons</summary>
 
@@ -24,6 +26,8 @@ All documents are included for verification and recruitment purposes.
 - [Constructor University Datathon 2026](hackathons/datathon-2026.pdf)
 
 </details>
+
+---
 
 <details>
 <summary>Voluntary Work</summary>
