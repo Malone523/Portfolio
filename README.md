@@ -1,6 +1,7 @@
 # Portfolio
 
-A collection of my certifications, competition work, and voluntary service documents.
+This repository documents my academic achievements, competition work, and professional credentials.
+All documents are included for verification and recruitment purposes.
 
 ---
 
