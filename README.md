@@ -34,6 +34,6 @@ All documents are included for verification and recruitment purposes.
 
 <br>
 
-- [TIKA Humanitarian Volunteer 2024](voluntary-work/tika-2024.pdf) — Turkish Agency for Cooperation and Coordination, Bucharest
+- [TIKA Humanitarian Volunteer 2024](https://github.com/Malone523/Portfolio/blob/main/Voluntary%20Work/TIKA%20Voluntary%20Work.pdf) — Turkish Agency for Cooperation and Coordination, Bucharest
 
 </details>
