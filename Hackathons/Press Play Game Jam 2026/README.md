@@ -4,4 +4,4 @@ This folder contains my 3rd place certificate for the Constructor Press Play Gam
 
 ## Project Links
 [View the project here](https://malone523.itch.io/fataltarot)  
-[View code here](a.com)
+[View code here](https://github.com/Taj-The-Brainless/Fatal-Tarot)
