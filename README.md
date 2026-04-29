@@ -22,9 +22,9 @@ All documents are included for verification and recruitment purposes.
 
 <br>
 
-- [Constructor University GenAI Hackathon 2026](https://github.com/Malone523/Portfolio/tree/main/Hackathons/Constructor%20GenAI%202026) — BMW AI for People & Leadership Strategy track
-- [Constructor University Datathon 2026](https://github.com/Malone523/Portfolio/tree/main/Hackathons/Constructor%20Datathon%202026)
-- [Constructor University Press Play Game Jam (3rd place)](https://github.com/Malone523/Portfolio/tree/main/Hackathons/Press%20Play%20Game%20Jam%202026) — needs to be uploaded
+- [Constructor GenAI Hackathon 2026](https://github.com/Malone523/Portfolio/tree/main/Hackathons/Constructor%20GenAI%202026) — BMW AI for People & Leadership Strategy track
+- [Constructor Datathon 2026](https://github.com/Malone523/Portfolio/tree/main/Hackathons/Constructor%20Datathon%202026)
+- [Constructor Press Play Game Jam (3rd place)](https://github.com/Malone523/Portfolio/tree/main/Hackathons/Press%20Play%20Game%20Jam%202026) — needs to be uploaded
 
 </details>
 
