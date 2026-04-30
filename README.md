@@ -3,18 +3,7 @@
 This repository documents my academic achievements, competition work, and professional credentials.  
 All documents are included for verification and recruitment purposes.
 
----
-
-<details>
-<summary>CV</summary>
-
-<br>
-
-- [CV](https://github.com/Malone523/Portfolio/blob/main/CV/CV.pdf)
-
-</details>  
-
----
+👉 **CV:** [View Resume](https://github.com/username/Portfolio/blob/main/CV/CV.pdf)
 
 <details>
 <summary>Certificates</summary>
