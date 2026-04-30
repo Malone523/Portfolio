@@ -29,7 +29,7 @@ All documents are included for verification and recruitment purposes.
 ---
 
 <details>
-<summary>Hackathons & Datathons</summary>
+<summary>Competitions</summary>
 
 <br>
 
