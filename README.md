@@ -1,7 +1,7 @@
 # Portfolio
 
 This repository documents my academic achievements, competition work, and professional credentials.  
-All documents are included for verification and recruitment purposes.
+All documents are included for verification and recruitment purposes.  
 **CV:** [View Resume](https://github.com/Malone523/Portfolio/blob/main/CV/CV.pdf)
 
 <details>
