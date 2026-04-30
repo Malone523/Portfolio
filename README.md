@@ -6,6 +6,17 @@ All documents are included for verification and recruitment purposes.
 ---
 
 <details>
+<summary>CV</summary>
+
+<br>
+
+- [CV](https://github.com/Malone523/Portfolio/blob/main/CV/CV.pdf)
+
+</details>  
+
+---
+
+<details>
 <summary>Certificates</summary>
 
 <br>
